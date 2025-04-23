@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Condition-Based-Maintenance-Planning-for-Partial-Observable-Multi-Component-Systems
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Han
+    family-names: Hu
+    email: han.hu@wisc.edu
+repository-code: >-
+  https://github.com/HuHan12/Condition-Based-Maintenance-Planning-for-Partial-Observable-Multi-Component-Systems#
