@@ -14,9 +14,9 @@ Use hetero_tm(unzip before use) for
 * Hetero (n,N)-Policy
 
 ## Uncertainty level impact analysis
-*uncertainty CW-POMDP
-*uncertainty CW-MDP
-*uncertainty (n,N)
+* uncertainty CW-POMDP
+* uncertainty CW-MDP
+* uncertainty (n,N)
 
 ## Case study
 * CW-MDP(case study)
